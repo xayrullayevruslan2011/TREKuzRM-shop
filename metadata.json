@@ -1,0 +1,5 @@
+{
+  "name": "Ruslan Market Logistics Tracking System",
+  "description": "A professional logistics management dashboard for generating unique internal track codes, mapping them to international shipping IDs, and simulating delayed SMS notifications.",
+  "requestFramePermissions": []
+}
